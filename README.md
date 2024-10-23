@@ -1,8 +1,6 @@
-[# dio-piano](https://brunomoraesdigital.github.io/dio-piano/)https://brunomoraesdigital.github.io/dio-piano/
-
 # Simulador de Piano
 
-Este projeto é um simulador de um pequeno piano, desenvolvido como parte do meu aprendizado de JavaScript, HTML e CSS. 
+Este projeto é um simulador de um pequeno piano, desenvolvido como parte do meu aprendizado na DIO de JavaScript, HTML e CSS. 
 
 ## Ver Demonstração
 <a href="https://brunomoraesdigital.github.io/dio-piano/" target="_blank" rel="noopener noreferrer">Ver Demonstração</a> 
